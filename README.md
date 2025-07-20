@@ -24,7 +24,7 @@ Features:
 - Borrow & return books
 - Track available stock
 
-Stored in [`major/library_management_system`](./major/library management system.py).
+Stored in [`major/library_management_system`](./major/library_management_system.py).
 
 ---
 
